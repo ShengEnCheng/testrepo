@@ -1,0 +1,14 @@
+30/08/2018 14:53:57  <.onInit-2>
+30/08/2018 14:53:57  <.onInit-4>
+30/08/2018 14:54:00 PRODUCT_NAME:Handset WinDriver-PRODUCT_VERSION:1.02.03.00 <MainSection-1>
+30/08/2018 14:54:09 WriteUninstaller <C:\Program Files (x86)\Handset WinDriver\uninst.exe> begin <Post-1>
+30/08/2018 14:54:09 WriteUninstaller <C:\Program Files (x86)\Handset WinDriver\uninst.exe> end <Post-2>
+30/08/2018 14:54:09 uninst.exe <Post-3(In loop)>
+30/08/2018 14:54:09 <C:\Program Files (x86)\Handset WinDriver\uninst.exe> writeOK <Post-5(In loop)>
+30/08/2018 15:09:41 1.02.03.00 <.onInit-2>
+30/08/2018 15:09:41 C:\Program Files (x86)\Handset WinDriver\uninst.exe <.onInit-4>
+30/08/2018 15:09:53 PRODUCT_NAME:Handset WinDriver-PRODUCT_VERSION:1.02.03.00 <MainSection-1>
+30/08/2018 15:09:56 WriteUninstaller <C:\Program Files (x86)\Handset WinDriver\uninst.exe> begin <Post-1>
+30/08/2018 15:09:56 WriteUninstaller <C:\Program Files (x86)\Handset WinDriver\uninst.exe> end <Post-2>
+30/08/2018 15:09:56 uninst.exe <Post-3(In loop)>
+30/08/2018 15:09:56 <C:\Program Files (x86)\Handset WinDriver\uninst.exe> writeOK <Post-5(In loop)>
